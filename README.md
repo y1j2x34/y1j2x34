@@ -2,11 +2,11 @@
 
 ### Programming Languages
 
-| <img src="https://cdn.svgporn.com/logos/java.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/typescript.svg" width="24"> |
-|--|--|--|--|
+| <img src="https://cdn.svgporn.com/logos/java.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/typescript.svg" width="48"> | <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" width="24"> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="24"> |
+|--|--|--|--|--| -- |
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&layout=compact&theme=dark"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&layout=compact&theme=light"></img>
 </p>
 
 ### Tools
