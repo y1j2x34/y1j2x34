@@ -12,11 +12,11 @@
 ### Tools
 
 | <img src="https://cdn.svgporn.com/logos/webpack.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/karma.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/gulp.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/rollupjs.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/gradle.svg" width="24"> |<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg" width="48"> |
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 
 ### Frameworks
 
-| <img src="https://cdn.svgporn.com/logos/spring.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/hibernate.svg" width="24"> |<img src="https://mybatis.org/images/mybatis-logo.png" width="48"> |<img src="https://cdn.svgporn.com/logos/angular.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/react.svg" width="24"> |<img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="24"> |
+| <img src="https://cdn.svgporn.com/logos/spring.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/hibernate.svg" width="24"> |<img src="https://mybatis.org/images/mybatis-logo.png" width="48"> |<img src="https://cdn.svgporn.com/logos/angular.svg" width="48"> |<img src="https://cdn.svgporn.com/logos/react.svg" width="24"> |<img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="24"> |
 |--|--|--|--|--|--|
 
 ### Github Repos
