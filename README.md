@@ -24,4 +24,4 @@
 [![spring-influxdb-orm](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=spring-influxdb-orm&show_owner=true)](https://github.com/y1j2x34/spring-influxdb-orm)
 [![channel-ts](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=channel-ts&show_owner=true)](https://github.com/y1j2x34/channel-ts)
 [![txon](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=txon&show_owner=true)](https://github.com/y1j2x34/txon)
-[![isolatejs](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=isolatejs&show_owner=true)](https://github.com/y1j2x34/isolatejs)
+
