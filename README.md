@@ -22,7 +22,7 @@
 ### Github Repos
 
 [![spring-influxdb-orm](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=spring-influxdb-orm&show_owner=true)](https://github.com/y1j2x34/spring-influxdb-orm)
-[![channel-ts](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=channel-ts&show_owner=true)](https://github.com/y1j2x34/channel-ts)
+[![channel-ts](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=tschannel&show_owner=true)](https://github.com/y1j2x34/tschannel)
 [![txon](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=txon&show_owner=true)](https://github.com/y1j2x34/txon)
 [![gulp-file-checksum](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=gulp-file-checksum&show_owner=true)](https://github.com/y1j2x34/gulp-file-checksum)
 [![ts-transformer-member-schema](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=ts-transformer-member-schema&show_owner=true)](https://github.com/y1j2x34/ts-transformer-member-schema)
