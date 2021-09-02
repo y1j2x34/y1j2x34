@@ -2,8 +2,8 @@
 
 ### Programming Languages
 
-| <img src="https://cdn.svgporn.com/logos/java.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/javascript.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/typescript.svg" width="48"> | <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" width="24"> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="24"> |
-|--|--|--|--|--| -- |
+| <img src="./assets/languages/java.svg" width="24"> | <img src="./assets/languages/kotlin.svg" width="24"> | <img src="./assets/languages/javascript.svg" width="24"> | <img src="./assets/languages/typescript.svg" width="48"> | <img src="./assets/languages/html-5.svg" width="24"> | <img src="./assets/languages/css-3.svg" width="24"> | <img src="./assets/languages/rust.svg" width="24"> |
+|--|--|--|--|--| -- | -- |
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&layout=compact&theme=light"></img>
@@ -11,13 +11,13 @@
 
 ### Tools
 
-| <img src="https://cdn.svgporn.com/logos/webpack.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/karma.svg" width="24"> | <img src="https://cdn.svgporn.com/logos/gulp.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/rollupjs.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/gradle.svg" width="24"> |<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg" width="48"> |
+| <img src="./assets/tools/webpack.svg" width="24"> | <img src="./assets/tools/karma.svg" width="24"> | <img src="./assets/tools/gulp.svg" width="24"> |<img src="./assets/tools/rollupjs.svg" width="24"> |<img src="./assets/tools/gradle.svg" width="24"> |<img src="./assets/tools/maven.svg" width="48"> |
 |--|--|--|--|--|--|
 
-### Frameworks
+### Frameworks/Libraries
 
-| <img src="https://cdn.svgporn.com/logos/spring.svg" width="24"> |<img src="https://cdn.svgporn.com/logos/hibernate.svg" width="24"> |<img src="https://mybatis.org/images/mybatis-logo.png" width="48"> |<img src="https://cdn.svgporn.com/logos/angular.svg" width="48"> |<img src="https://cdn.svgporn.com/logos/react.svg" width="24"> |<img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="24"> |
-|--|--|--|--|--|--|
+| <img src="./assets/frameworks/spring.svg" width="24"> |<img src="./assets/frameworks/hibernate.svg" width="24"> |<img src="./assets/frameworks/mybatis-logo.png" width="48"> |<img src="./assets/frameworks/angular.svg" width="48"> |<img src="./assets/frameworks/react.svg" width="24"> |<img src="./assets/frameworks/reactivex.svg" width="24"> | <img src="./assets/frameworks/opengl-1.svg" width="24"> |
+|--|--|--|--|--|--|--|
 
 ### Github Repos
 
