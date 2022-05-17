@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### Skills
+### :muscle: Skills
 
 | <img src="./assets/languages/java.svg" width="24"> | <img src="./assets/languages/kotlin.svg" width="24"> | <img src="./assets/languages/javascript.svg" width="24"> | <img src="./assets/languages/typescript.svg" width="48"> | <img src="./assets/languages/html-5.svg" width="24"> | <img src="./assets/languages/css-3.svg" width="24"> | <img src="./assets/languages/rust.svg" width="24"> |
 |--|--|--|--|--| -- | -- |
@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&layout=compact&theme=light"></img>
 </p>
 
-### My Github Stats
+### :nut_and_bolt: My Github Stats
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=y1j2x34&theme=dracula&custom_title=GitHub%20Commits%20Graph)
 
