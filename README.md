@@ -5,9 +5,8 @@
 | <img src="./assets/languages/java.svg" width="24"> | <img src="./assets/languages/kotlin.svg" width="24"> | <img src="./assets/languages/javascript.svg" width="24"> | <img src="./assets/languages/typescript.svg" width="48"> | <img src="./assets/languages/html-5.svg" width="24"> | <img src="./assets/languages/css-3.svg" width="24"> | <img src="./assets/languages/rust.svg" width="24"> |
 |--|--|--|--|--| -- | -- |
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&layout=compact&theme=light"></img>
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&langs_count=10&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :nut_and_bolt: My Github Stats
 
