@@ -1,16 +1,23 @@
 #  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### :muscle: Skills
-
+<!--
 | <img src="./assets/languages/java.svg" width="24"> | <img src="./assets/languages/kotlin.svg" width="24"> | <img src="./assets/languages/javascript.svg" width="24"> | <img src="./assets/languages/typescript.svg" width="48"> | <img src="./assets/languages/html-5.svg" width="24"> | <img src="./assets/languages/css-3.svg" width="24"> | <img src="./assets/languages/rust.svg" width="24"> |
 |--|--|--|--|--| -- | -- |
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&langs_count=10&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-### :nut_and_bolt: My Github Stats
+![](https://github-readme-stats-liby.vercel.app/api?username=y1j2x34&show_icons=true&hide=stars&hide_title=true&theme=cobalt&hide_border=true)
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=y1j2x34&theme=dracula&custom_title=GitHub%20Commits%20Graph)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![Sass](https://img.shields.io/badge/Sass-%23f8f9fa.svg?style=for-the-badge&logo=sass&logoColor=%23cf649a)](https://sass-lang.com/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+[![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <!--
 ### Tools
