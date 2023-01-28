@@ -18,6 +18,7 @@
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-020a47?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 
 <!--
 ### Tools
