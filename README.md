@@ -13,15 +13,17 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Sass](https://img.shields.io/badge/Sass-%23f8f9fa.svg?style=for-the-badge&logo=sass&logoColor=%23cf649a)](https://sass-lang.com/)
+[![SolidJS](https://img.shields.io/badge/SolidJS-white?style=for-the-badge&logo=Solid&logoColor=467abe)](https://www.solidjs.com/)
+[![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-020a47?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+
+
 <!--
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 -->
-[![SolidJS](https://img.shields.io/badge/SolidJS-white?style=for-the-badge&logo=Solid&logoColor=467abe)](https://www.solidjs.com/)
-[![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![InfluxDB](https://img.shields.io/badge/InfluxDB-020a47?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 
 <!--
 ### Tools
