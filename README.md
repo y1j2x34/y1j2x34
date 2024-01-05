@@ -1,48 +1,59 @@
 #  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<!--
-| <img src="./assets/languages/java.svg" width="24"> | <img src="./assets/languages/kotlin.svg" width="24"> | <img src="./assets/languages/javascript.svg" width="24"> | <img src="./assets/languages/typescript.svg" width="48"> | <img src="./assets/languages/html-5.svg" width="24"> | <img src="./assets/languages/css-3.svg" width="24"> | <img src="./assets/languages/rust.svg" width="24"> |
-|--|--|--|--|--| -- | -- |
--->
+# Hi there! 👋 I'm chien hsin yang!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&langs_count=10&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate developer with a love for coding and building cool stuff. Here's a glimpse into my coding world:
 
-![](https://github-readme-stats-liby.vercel.app/api?username=y1j2x34&show_icons=true&hide=stars&hide_title=true&theme=cobalt&hide_border=true)
+## 🔧 Technologies & Tools
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![Sass](https://img.shields.io/badge/Sass-%23f8f9fa.svg?style=for-the-badge&logo=sass&logoColor=%23cf649a)](https://sass-lang.com/)
-[![SolidJS](https://img.shields.io/badge/SolidJS-white?style=for-the-badge&logo=Solid&logoColor=467abe)](https://www.solidjs.com/)
-[![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![InfluxDB](https://img.shields.io/badge/InfluxDB-020a47?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y1j2x34&langs_count=10&layout=compact&theme=light)](https://github.com/y1j2x34)
+
+- **Languages I Speak:**
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 
-<!--
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
--->
+## 🚀 My Tech Toolbox
 
-<!--
-### Tools
+- **Frontend:**
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+  ![SolidJS](https://img.shields.io/badge/SolidJS-2E7D32?style=flat-square&logo=solid&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-| <img src="./assets/tools/webpack.svg" width="24"> | <img src="./assets/tools/karma.svg" width="24"> | <img src="./assets/tools/gulp.svg" width="24"> |<img src="./assets/tools/rollupjs.svg" width="24"> |<img src="./assets/tools/gradle.svg" width="24"> |<img src="./assets/tools/maven.svg" width="48"> |
-|--|--|--|--|--|--|
 
-### Frameworks/Libraries
+- **Backend:**
 
-| <img src="./assets/frameworks/spring.svg" width="24"> |<img src="./assets/frameworks/hibernate.svg" width="24"> |<img src="./assets/frameworks/mybatis-logo.png" width="48"> |<img src="./assets/frameworks/angular.svg" width="48"> |<img src="./assets/frameworks/react.svg" width="24"> |<img src="./assets/frameworks/reactivex.svg" width="24"> | <img src="./assets/frameworks/opengl-1.svg" width="24"> |
-|--|--|--|--|--|--|--|
--->
-<!--
-### Github Repos
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-||||
-|:-:|:-:|:-:|
-|[![spring-influxdb-orm](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=spring-influxdb-orm&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/spring-influxdb-orm)|[![channel-ts](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=tschannel&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/tschannel)|[![txon](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=txon&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/txon)|
-|[![gulp-file-checksum](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=gulp-file-checksum&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/gulp-file-checksum)|[![ts-transformer-member-schema](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=ts-transformer-member-schema&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/ts-transformer-member-schema)|[![shortcuts](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=shortcuts&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/shortcuts)|
-|[![rollup-jest-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=rollup-jest-boilerplate&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/rollup-jest-boilerplate)|[![rollup-ts-karma-mocha-chai-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=rollup-ts-karma-mocha-chai-boilerplate&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/rollup-ts-karma-mocha-chai-boilerplate)|[![webpack-ts-karma-mocha-chai-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=webpack-ts-karma-mocha-chai-boilerplate&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/webpack-ts-karma-mocha-chai-boilerplate)|
-|[![jtex](https://github-readme-stats.vercel.app/api/pin/?username=y1j2x34&repo=jtex&show_owner=true&theme=github_dark)](https://github.com/y1j2x34/jtex)|||
--->
+- **Database:**
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+  ![Milvus](https://img.shields.io/badge/Milvus-0059B3?style=flat-square&logo=milvus&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y1j2x34&show_icons=true&count_private=true)
+
+## 📫 Let's Connect
+
+Feel free to reach out on:
+
+- [Twitter](https://x.com/y1j2x34)
+
+## 🌐 Dive into My Mind
+
+Check out my blog at <https://www.cnblogs.com/vgerbot/>.
+
+Let's build something awesome together! 🚀
